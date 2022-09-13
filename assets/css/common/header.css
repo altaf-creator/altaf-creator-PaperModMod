@@ -6,10 +6,6 @@
     z-index: 99999999;
 }
 
-.header.dark {
-    background-color: red;
-}
-
 .nav {
     display: flex;
     flex-wrap: wrap;
